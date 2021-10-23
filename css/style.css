@@ -534,7 +534,7 @@ display: inline-block;
     margin-left:5px;
   }
   .contact__info p{
-    width: auto;
+    width: 100%;
   }
   .contact__info {
     display: flex;
