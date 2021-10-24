@@ -526,7 +526,7 @@ display: inline-block;
 @media screen and (max-width:560px) {
   .row .button{
     margin: 0px;
-    padding: 1rem 3rem;
+    padding: 1rem 1rem;
 
   }
   .contact{
