@@ -523,7 +523,7 @@ display: inline-block;
   margin-left: 40px;
 }
 
-@media screen and (max-width:560px) {
+@media screen and (max-width:760px) {
   .row .button{
     margin: 0px;
     padding: 1rem 1rem;
