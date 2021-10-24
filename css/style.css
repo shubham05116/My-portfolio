@@ -360,7 +360,7 @@ html {
 
 
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1000px) {
   .skill-list {
     display: grid;
     grid-template-columns: 1fr 1fr ;
